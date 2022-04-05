@@ -10,10 +10,10 @@ The world est une application destiné à avoir des informations sur les pays. L
 
 ## Architecture logiciel :
 
-API externe (restcountries)
-Persistence de données (like)
-Custom renderer (image drapeau et bouton like)
-3 pages (accueil, listes, détails)
-Listes réparties en 6 onglets
+- API externe (restcountries)
+- Persistence de données (like)
+- Custom renderer (image drapeau et bouton like)
+- 3 pages (accueil, listes, détails)
+- Listes réparties en 6 onglets
 
 
