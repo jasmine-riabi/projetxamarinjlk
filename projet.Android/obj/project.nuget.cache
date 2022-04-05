@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4WukkGrqH+LLTuNRqVtFt8c4haWS2MDtir41UPzpga9FoZRf3Dsr4eWvC8MaissNo2TklXGbp67imxy9QdB/bQ==",
+  "dgSpecHash": "QOa8UQcV/yh5Ncj8oRFZ7sveUu5Vg59wL5LEqKgJkOja4d2uRqCf5KrCKq+gP6SV90oda8xvLNvcC8JUUXSosA==",
   "success": true,
-  "projectFilePath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet.Android/projet.Android.csproj",
+  "projectFilePath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet.Android/projet.Android.csproj",
   "expectedPackageFiles": [
     "/Users/jasmine/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/jasmine/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

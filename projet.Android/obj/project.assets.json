@@ -970,20 +970,6 @@
         "build": {
           "buildTransitive/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
-      },
-      "projet/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "bin/placeholder/projet.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/projet.dll": {}
-        }
       }
     }
   },
@@ -2127,18 +2113,12 @@
         "xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
         "xamarin.google.guava.listenablefuture.nuspec"
       ]
-    },
-    "projet/1.0.0": {
-      "type": "project",
-      "path": "../projet/projet.csproj",
-      "msbuildProject": "../projet/projet.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v11.0": [
       "Xamarin.Essentials >= 1.6.1",
-      "Xamarin.Forms >= 5.0.0.2012",
-      "projet >= 1.0.0"
+      "Xamarin.Forms >= 5.0.0.2012"
     ]
   },
   "packageFolders": {
@@ -2147,11 +2127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet.Android/projet.Android.csproj",
+      "projectUniqueName": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet.Android/projet.Android.csproj",
       "projectName": "projet.Android",
-      "projectPath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet.Android/projet.Android.csproj",
+      "projectPath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet.Android/projet.Android.csproj",
       "packagesPath": "/Users/jasmine/.nuget/packages/",
-      "outputPath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet.Android/obj/",
+      "outputPath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2165,11 +2145,7 @@
       },
       "frameworks": {
         "monoandroid11.0": {
-          "projectReferences": {
-            "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/projet.csproj": {
-              "projectPath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/projet.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },

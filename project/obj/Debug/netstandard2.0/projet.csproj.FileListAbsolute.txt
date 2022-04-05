@@ -1,0 +1,16 @@
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/bin/Debug/netstandard2.0/projet.deps.json
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/bin/Debug/netstandard2.0/projet.dll
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/bin/Debug/netstandard2.0/ref/projet.dll
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/bin/Debug/netstandard2.0/projet.pdb
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/projet.csproj.AssemblyReference.cache
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/projet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/projet.AssemblyInfoInputs.cache
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/projet.AssemblyInfo.cs
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/projet.csproj.CoreCompileInputs.cache
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/projet.dll
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/ref/projet.dll
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/projet.pdb
+/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/obj/Debug/netstandard2.0/Views/CountryList.xaml.g.cs

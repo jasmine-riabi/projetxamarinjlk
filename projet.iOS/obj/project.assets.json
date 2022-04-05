@@ -150,20 +150,6 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
-      },
-      "projet/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "bin/placeholder/projet.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/projet.dll": {}
-        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
@@ -314,20 +300,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "projet/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "bin/placeholder/projet.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/projet.dll": {}
         }
       }
     },
@@ -480,20 +452,6 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
-      },
-      "projet/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "bin/placeholder/projet.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/projet.dll": {}
-        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
@@ -644,20 +602,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "projet/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "bin/placeholder/projet.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/projet.dll": {}
         }
       }
     }
@@ -976,18 +920,12 @@
         "xamarin.forms.5.0.0.2012.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
-    },
-    "projet/1.0.0": {
-      "type": "project",
-      "path": "../projet/projet.csproj",
-      "msbuildProject": "../projet/projet.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
       "Xamarin.Essentials >= 1.6.1",
-      "Xamarin.Forms >= 5.0.0.2012",
-      "projet >= 1.0.0"
+      "Xamarin.Forms >= 5.0.0.2012"
     ]
   },
   "packageFolders": {
@@ -996,11 +934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet.iOS/projet.iOS.csproj",
+      "projectUniqueName": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet.iOS/projet.iOS.csproj",
       "projectName": "projet.iOS",
-      "projectPath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet.iOS/projet.iOS.csproj",
+      "projectPath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet.iOS/projet.iOS.csproj",
       "packagesPath": "/Users/jasmine/.nuget/packages/",
-      "outputPath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet.iOS/obj/",
+      "outputPath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1014,11 +952,7 @@
       },
       "frameworks": {
         "xamarinios10": {
-          "projectReferences": {
-            "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/projet.csproj": {
-              "projectPath": "/Users/jasmine/Documents/GitHub/projetxamarinjlk/projet/projet/projet.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },

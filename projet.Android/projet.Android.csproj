@@ -87,8 +87,8 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\projet\projet.csproj">
-      <Project>{FA59A1B8-5269-45D9-8596-398CD1A205BF}</Project>
-      <Name>projet</Name>
+      <Project>{6E01AF9D-ED65-4D3A-B197-CD7DB27E94F0}</Project>
+      <Name>project</Name>
     </ProjectReference>
   </ItemGroup>
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
